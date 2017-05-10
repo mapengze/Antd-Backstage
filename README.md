@@ -1,5 +1,4 @@
 # Antd-Backstage
-Based on antd and React development of the background management system template.
 [![React Native](https://img.shields.io/badge/react-^15.4.1-brightgreen.svg?style=flat-square)](https://github.com/facebook/react)
 [![Ant Design](https://img.shields.io/badge/ant--design-^2.7.3-yellowgreen.svg?style=flat-square)](https://github.com/ant-design/ant-design)
 [![dva](https://img.shields.io/badge/dva-^1.1.0-orange.svg?style=flat-square)](https://github.com/dvajs/dva)
@@ -9,7 +8,7 @@ Based on antd and React development of the background management system template
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
 
-演示地址 <http://zuiidea.github.io/antd-admin/>
+演示地址 <http://mapengze.github.io/Antd-Backstage/>
 
 备用地址 <http://47.92.30.98:8000>
 
@@ -23,21 +22,10 @@ Based on antd and React development of the background management system template
 
 ## 更新日志
 
-### 4.2
 
-`2017-04-28`
+### 5.1
 
--     修改user相关API使用`Restful`风格
--     增加user页面多条件查询[#266](https://github.com/zuiidea/antd-admin/issues/226)
--     修复菜单默认高亮[#201](https://github.com/zuiidea/antd-admin/issues/201)
-
-`2017-04-21`
-
--     重写Menu，Bread组件及配置文件，[说明](https://github.com/zuiidea/antd-admin/wiki/%E8%8F%9C%E5%8D%95%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
-
-### 4.1
-
-`2017-04-14`
+`2017-05-10`
 
 -   升级开发工具为[roadhog](https://github.com/sorrycc/roadhog)
 -   使用`roadhog`的mock功能
@@ -82,7 +70,7 @@ Based on antd and React development of the background management system template
 
 克隆项目文件:
 
-    git clone https://github.com/zuiidea/antd-admin.git
+    git clone https://github.com/mapengze/Antd-Backstage.git
 
 进入目录安装依赖:
 
@@ -113,7 +101,6 @@ npm run lint
 
 用户列表：<https://github.com/dvajs/dva/tree/master/examples/user-dashboard>
 
-dashboard设计稿：<https://dribbble.com/shots/3108122-Dashboard-Admin> （已征得作者同意）
 
 ## 截屏
 
